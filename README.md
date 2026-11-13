@@ -13,6 +13,8 @@ Estudiante de **Sistemas Microinformáticos y Redes (SMR)** en Murcia, España. 
 
 ## Proyectos destacados
 
+**[ExamenIA](https://github.com/jaime73kz/examenia)**: examen de español para inteligencias artificiales que se corrige solo. Genera preguntas nuevas cada vez (tildes, números en letras, días de la semana, conjugación, plurales y órdenes con reglas), puntúa las respuestas de cualquier IA y compara varias en un informe. Python, sin dependencias.
+
 **[RewardGuard](https://github.com/jaime73kz/rewardguard)**: detector de *reward hacking* en código generado por IA. Descubre cuándo una solución hace trampa para pasar los tests (respuestas escritas a mano, lectura de archivos señuelo, objetos que siempre son iguales, salidas prematuras) y mide la diferencia entre la puntuación aparente y la real. Python, sin dependencias.
 
 **[PageScout](https://github.com/jaime73kz/pagescout)**: herramienta de línea de comandos en Python que extrae datos de páginas web con selectores CSS y los exporta a CSV, JSON o Excel.
