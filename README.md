@@ -9,7 +9,7 @@ Estudiante de **Sistemas Microinformáticos y Redes (SMR)** en Murcia, España. 
 - 🤖 Chatbots para tiendas y bots de llamadas
 - 🧩 Extensiones de Chrome
 - 🛡️ Seguridad de la IA y del código: análisis estático de flujo de datos, pruebas de inyección de instrucciones, evaluación de defensas y detección de trampas (*reward hacking*) en código de IA
-- 🌐 Desarrollo web, más de 100 webs
+- 🌐 Desarrollo web, más de 200 webs
 - 🎓 Clases particulares sobre cómo usar la IA
 
 ## Proyectos destacados
